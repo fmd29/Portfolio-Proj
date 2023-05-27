@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <link rel="stylesheet" href="portfolio.css">
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <body>
+    <header>
+      <div class="title">Welcome to Fasa's Website</div>
+      <nav>
+        <ul>
+          <li>
+            <a href="https://github.com/fmd29/GCode">Home</a>
+          </li>
+          <li>
+            <a href="https://github.com/fmd29/GCode">About Me</a>
+          </li>
+          <li>
+            <a href="https://github.com/fmd29/GCode">My Work</a>
+          </li>
+           <li>
+            <a href="https://github.com/fmd29/GCode">Contact</a>
+          </li>
+        </ul>
+      </nav>
+
+    </header>
+
+    <main>
+      <article>
+        <h1>Hello world!</h1>
+        <p>Welcome to my site</p>
+
+        <ul class="cards">
+          <li>
+            <h2>About Me</h2>
+            <div class=".about">
+              <p>
+              My name is Fasa David. I currently working in the international development sector My talents include people management, event management, and working towards web development.  
+                  
+                </p>
+            </div>
+          </li>
+          <li>
+            <h2>My work</h2>
+            <div class="work">
+              <p><a href="https://github.com/fmd29/GCode">Github profile</a>
+                <a href="https://www.linkedin.com/in/fasa-david">LinkedIn</a>
+                  
+                <div>Project One</div>
+  <div>Project Two</div>
+  <div>Project Three</div>
+  <div>Project Four</div>
+  <div>Project Five</div>
+                </p>
+            </div>
+          </li>
+          <li>
+            <h2>Contact</h2>
+            <div class=".contact">
+              <p>
+                
+    Email:fmd29@gmail.com
+If you have any questions or concerns please leave your contact information below.
+                <form method="post" action="http://server1">
+  Enter your name:
+  <input type="text" name="fname">
+  <br/>
+  Enter your email:
+  <input type="text" name="age">
+  <br/>
+Type message:
+  <input type="text" name="fname">
+  <br/>
+  <input type="submit" value="Submit">
+                  <form action="/index3.html" method="PUT"></form>
+</form>
+    
+              </p>
+            </div>
+          </li>
+          <li>
+           
+            </div>
+          </li>
+
+        </ul>
+      </article>
+      <aside class="sidebar">
+        <p>Thank you for visiting!</p>
+
+      </aside>
+    </main>
+
+  </body>
+</html>
